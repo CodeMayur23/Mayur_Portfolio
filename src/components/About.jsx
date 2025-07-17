@@ -6,7 +6,7 @@ import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
-import cv from "../assets/aaditya_cv.pdf";
+import cv from "../assets/Mayur_CV.pdf";
 
 const ServiceCard = ({ index, title, icon }) => (
   <Tilt className='xs:w-[250px] w-full'>
@@ -67,7 +67,7 @@ const About = () => {
     </a>
     
     <a
-      href='https://leetcode.com/u//'
+      href='https://leetcode.com/u/code_mayur23/'
       target='_blank'
       rel='noopener noreferrer'
       className='bg-tertiary rounded-[10px] py-3 px-3 flex-1 sm:flex-none text-center sm:text-left'
