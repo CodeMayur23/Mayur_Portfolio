@@ -56,7 +56,7 @@ const Education = () => {
   const educationData = [     
     {       
       degree: "Bachelor of Technology - Computer Engineering",       
-      institution: "Pillai HOC College of Engineering and Technology",       
+      institution: "SKN Sinhgad Institute Of Technology & Science",       
       year: "Aug 2024 – June 2027",
       location: "Maharashtra, India",       
       iconBg: "#7289da",      
@@ -66,7 +66,7 @@ const Education = () => {
       ],     
     },     
     {       
-      degree: "Diploma in Computer Engineering - 80.40%",       
+      degree: "Diploma in Computer Engineering - 85.03%",       
       institution: "SMDR Government Polytechnic Dhule",       
       year: "Oct 2021 – July 2024",
       location: "Maharashtra, India",       
@@ -77,14 +77,14 @@ const Education = () => {
       ],     
     },
     {       
-      degree: "10th Grade (SSC) - 90.80%",       
-      institution: "Sardar G.G. High School and Junior College, Raver",       
+      degree: "10th Grade (SSC) - 93.60%",       
+      institution: "V M V K Highschool",       
       year: "June 2021",
       location: "Maharashtra, India",       
       iconBg: "#f04747",      
       points: [
         "Completed secondary education under Maharashtra State Board of Secondary & Higher Secondary Education",
-        "Participated in state level cricket competitions and science exhibitions",
+        "Participated in state level Chess competitions and science exhibitions",
         "Received academic excellence award for outstanding performance across all subjects",
       ],     
     },   

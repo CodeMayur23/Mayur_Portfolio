@@ -49,7 +49,7 @@ const About = () => {
   {/* First row - 3 buttons on mobile, all 4 on desktop */}
   <div className='flex gap-4 sm:gap-8 justify-center sm:justify-start'>
     <a
-      href='https://github.com/AadityaMahajan03'
+      href='https://github.com/CodeMayur23'
       target='_blank'
       rel='noopener noreferrer'
       className='bg-tertiary rounded-[10px] py-3 px-3 flex-1 sm:flex-none text-center sm:text-left'
@@ -58,7 +58,7 @@ const About = () => {
     </a>
     
     <a
-      href='https://www.linkedin.com/in/aaditya-mahajan0/'
+      href='https://www.linkedin.com/in/mayurdesale23/'
       target='_blank'
       rel='noopener noreferrer'
       className='bg-tertiary rounded-[10px] py-3 px-3 flex-1 sm:flex-none text-center sm:text-left'

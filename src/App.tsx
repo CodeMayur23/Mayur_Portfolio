@@ -10,9 +10,9 @@ import {
   Works, 
   StarsCanvas,
   Education 
-} from "./components";
+} from './components';
 
-const App = () => {
+function App() {
   return (
     <BrowserRouter>
       <div className="relative z-0 bg-primary">
@@ -32,7 +32,7 @@ const App = () => {
         </div>
       </div>
     </BrowserRouter>
-  )
+  );
 }
 
 export default App;

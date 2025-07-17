@@ -110,19 +110,19 @@ const technologies = [
   },
 ];
 const experiences = [
-  {
-    title: "Campus Ambassador",
-    company_name: "GeeksforGeeks",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "May 2025 - Present",
-    points: [
-      "Represented GeeksforGeeks on campus as a Campus Ambassador.",
-      "Promoted coding culture and GfG events among peers.",
-      "Organized workshops and sessions to enhance student engagement.",
-      "Collaborated with the GfG team to drive outreach and participation."
-    ],
-  },
+  // {
+  //   title: "Campus Ambassador",
+  //   company_name: "GeeksforGeeks",
+  //   icon: shopify,
+  //   iconBg: "#383E56",
+  //   date: "May 2025 - Present",
+  //   points: [
+  //     "Represented GeeksforGeeks on campus as a Campus Ambassador.",
+  //     "Promoted coding culture and GfG events among peers.",
+  //     "Organized workshops and sessions to enhance student engagement.",
+  //     "Collaborated with the GfG team to drive outreach and participation."
+  //   ],
+  // },
   {
     title: "Web Developer",
     company_name: "Om Sai Traders Pvt Ltd, Dhule",
@@ -134,18 +134,18 @@ const experiences = [
       "Developed an application using Django, Mediapipe, and SQLite.",
     ],
   },
-  {
-    title: "Full Stack Web Developer",
-    company_name: "Unified Mentor Private Limited",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2025 - Feb 2025",
-    points: [
-      "Completed a one-month remote web development internship.",
-      "Designed, developed, and optimized web applications while enhancing problem-solving skills.",
-      "Gained understanding of industry best practices.",
-    ],
-  },
+  // {
+  //   title: "Full Stack Web Developer",
+  //   company_name: "Unified Mentor Private Limited",
+  //   icon: shopify,
+  //   iconBg: "#383E56",
+  //   date: "Jan 2025 - Feb 2025",
+  //   points: [
+  //     "Completed a one-month remote web development internship.",
+  //     "Designed, developed, and optimized web applications while enhancing problem-solving skills.",
+  //     "Gained understanding of industry best practices.",
+  //   ],
+  // },
 ];
 
 
@@ -261,21 +261,14 @@ const projects = [
 
 const achievements = [
   {
-    title: "Grand India Challenge",
-    description: "Winner",
-    level: "national",
-    rank: "1st",
-    competition: "GIC at NIMMS Navi Mumbai",
-    date: "Jan 2025",
+    title: "Not yet",
+    description: "Very Soon",
+    level: "-",
+    rank: "-",
+    competition: "-",
+    date: "00/00/0000",
   },
-  {
-    title: "XZIBIT",
-    description: "Winner",
-    level: "National",
-    rank: "1st",
-    competition: "National‑Level Project Competition at KC College of Engineering Thane" ,
-    date: "Apr 2025",
-  },
+
  
 ];
 
