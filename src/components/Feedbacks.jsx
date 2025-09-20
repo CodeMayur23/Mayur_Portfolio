@@ -8,25 +8,29 @@ import { achievements } from "../constants";
 const AchievementCard = ({
   index,
   title,
-  level,
-  rank,
   competition,
   date,
+  image,
+  link,
 }) => (
   <motion.div
     variants={fadeIn("", "spring", index * 0.5, 0.75)}
     className="bg-black-200 p-10 rounded-3xl xs:w-[320px] w-full"
   >
     <div className="mt-1">
+      {/* Clickable Image */}
+      {image && (
+        <a href={link || image} target="_blank" rel="noopener noreferrer">
+          <img
+            src={image}
+            alt={title}
+            className="rounded-xl mb-4 shadow-md hover:scale-105 transition-transform duration-300"
+          />
+        </a>
+      )}
+
       <p className="text-white tracking-wider text-[18px] font-bold mb-3">
         {title}
-      </p>
-
-      <p className="text-white tracking-wider text-[14px] mb-1">
-        Level: {level}
-      </p>
-      <p className="text-white tracking-wider text-[14px] mb-1">
-        Rank: {rank}
       </p>
       <p className="text-white tracking-wider text-[14px] mb-2">
         {competition}
@@ -44,7 +48,7 @@ const Achievements = () => {
       <div className={`bg-tertiary rounded-2xl ${styles.padding} min-h-[300px]`}>
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>MY ACHIEVEMENTS</p>
-          <h2 className={styles.sectionHeadText}>Achievements & Competitions</h2>
+          <h2 className={styles.sectionHeadText}>ACHIEVEMENTS & CERTIFICATION</h2>
         </motion.div>
       </div>
       <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7 justify-center`}>

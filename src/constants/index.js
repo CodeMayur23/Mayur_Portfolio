@@ -191,7 +191,7 @@ const projects = [
       },
     ],
     image: "https://via.placeholder.com/300",
-    source_code_link: "https://github.com/AadityaMahajan03/Om-Sai-Traders",
+    source_code_link: "https://github.com/CodeMayur23/Om-Sai-Traders-master",
   },
   {
     name: "Secure Exam App",
@@ -212,7 +212,7 @@ const projects = [
       },
     ],
     image: { secureApp },
-    source_code_link: "https://github.com/AadityaMahajan03/Secure-Exam-Web-App",
+    source_code_link: "",
   },
   {
     name: "FarmTech_-Rental-System-For-Agriculture-Equipment ",
@@ -233,7 +233,7 @@ const projects = [
       },
     ],
     image: "https://via.placeholder.com/300",
-    source_code_link: "https://github.com/AadityaMahajan03/FarmTech_-Rental-System-For-Agriculture-Equipment",
+    source_code_link: "https://github.com/CodeMayur23/FarmTech_-Rental-System-For-Agriculture-Equipment-main",
   },
   {
     name: "Online-Movie-Booking-System",
@@ -254,19 +254,39 @@ const projects = [
       },
     ],
     image: "https://via.placeholder.com/300",
-    source_code_link: "https://github.com/AadityaMahajan03/Online-Movie-Booking-System",
+    source_code_link: "",
   },
 ];
 
 
 const achievements = [
   {
-    title: "Not yet",
-    description: "Very Soon",
-    level: "-",
-    rank: "-",
-    competition: "-",
-    date: "00/00/0000",
+    title: "Tata Intern GenAI Powered Data Analytics Job Simulation",
+    competition: "Tata Internship",
+    date: "2025",
+    image: "/images/tata-cert.png",
+    link: "https://drive.google.com/file/d/19oq3mMNfQkHoh1z_Q9u51OQDRrCiL9zD/view?usp=sharing", // or external certificate URL
+  },
+  {
+    title: "Deloitte Technology Job Simulation",
+    competition: "Forage Virtual Internship",
+    date: "2025",
+    image: "/images/deloitte-tech.png",
+    link: "/images/deloitte-tech.png",
+  },
+  {
+    title: "Deloitte Data Analytics Job Simulation",
+    competition: "Deloitte Internship",
+    date: "2025",
+    image: "/images/deloitte-data.png",
+    link: "/images/deloitte-data.png",
+  },
+  {
+    title: "Data Analytics",
+    competition: "SKN VAP Program",
+    date: "2025",
+    image: "/images/data-analytics.png",
+    link: "/images/data-analytics.png",
   },
 
  
