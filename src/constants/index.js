@@ -211,8 +211,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: { secureApp },
-    source_code_link: "",
+    image: secureApp ,
+    source_code_link: "https://github.com/CodeMayur23/Secure-Exam-Web-App",
   },
   {
     name: "FarmTech_-Rental-System-For-Agriculture-Equipment ",
@@ -265,21 +265,21 @@ const achievements = [
     competition: "Tata Internship",
     date: "2025",
     image: "/images/tata-cert.png",
-    link: "https://drive.google.com/file/d/19oq3mMNfQkHoh1z_Q9u51OQDRrCiL9zD/view?usp=sharing", // or external certificate URL
+    link: "https://drive.google.com/file/d/19oq3mMNfQkHoh1z_Q9u51OQDRrCiL9zD/view?usp=sharing", 
   },
   {
     title: "Deloitte Technology Job Simulation",
     competition: "Forage Virtual Internship",
     date: "2025",
-    image: "/images/deloitte-tech.png",
-    link: "/images/deloitte-tech.png",
+    image: "src/assets/Deloitte Technology Certificate.pdf",
+    link: "https://drive.google.com/file/d/1Gca3ssAcgvSajYwZgp1KsSJgQz8vtYFO/view?usp=sharing",
   },
   {
     title: "Deloitte Data Analytics Job Simulation",
     competition: "Deloitte Internship",
     date: "2025",
     image: "/images/deloitte-data.png",
-    link: "/images/deloitte-data.png",
+    link: "https://drive.google.com/file/d/1d6Afn8JXE3vspWN6UKFRXqTePR7wev6a/view?usp=sharing",
   },
   {
     title: "Data Analytics",
