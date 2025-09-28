@@ -9,6 +9,7 @@ import close from "./close.svg";
 import flexos from "./projects/FlexOS.png";
 import omsaitrader from "./projects/OmSaiTrader.png";
 import agriculture from "./projects/Agriculture_Equipment.png";
+import moviebooking from "./projects/online movie Booking.png";
 import secureApp from "./projects/SecureExamApp.png";
 import css from "./tech/css.webp";
 import docker from "./tech/docker.webp";
@@ -66,4 +67,5 @@ export {
   secureApp,
   omsaitrader,
   agriculture,
+  moviebooking,
 };

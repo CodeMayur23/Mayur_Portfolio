@@ -24,6 +24,7 @@ import {
   secureApp,
   omsaitrader,
   agriculture,
+  moviebooking,
 } from "../assets";
 
 
@@ -255,7 +256,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "https://via.placeholder.com/300",
+    image: moviebooking,
     source_code_link: "",
   },
 ];
