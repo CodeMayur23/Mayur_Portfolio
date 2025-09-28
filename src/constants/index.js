@@ -22,6 +22,8 @@ import {
   threejs,
   flexos,
   secureApp,
+  omsaitrader,
+  agriculture,
 } from "../assets";
 
 
@@ -190,7 +192,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: "https://via.placeholder.com/300",
+    image: omsaitrader,
     source_code_link: "https://github.com/CodeMayur23/Om-Sai-Traders-master",
   },
   {
@@ -232,7 +234,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "https://via.placeholder.com/300",
+    image: agriculture,
     source_code_link: "https://github.com/CodeMayur23/FarmTech_-Rental-System-For-Agriculture-Equipment-main",
   },
   {

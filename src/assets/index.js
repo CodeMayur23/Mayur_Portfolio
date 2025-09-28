@@ -7,6 +7,8 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import flexos from "./projects/FlexOS.png";
+import omsaitrader from "./projects/OmSaiTrader.png";
+import agriculture from "./projects/Agriculture_Equipment.png";
 import secureApp from "./projects/SecureExamApp.png";
 import css from "./tech/css.webp";
 import docker from "./tech/docker.webp";
@@ -62,4 +64,6 @@ export {
   tripguide,
   flexos,
   secureApp,
+  omsaitrader,
+  agriculture,
 };
