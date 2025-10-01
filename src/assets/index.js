@@ -1,6 +1,10 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
+import tatacert from "./projects/TataCert.png";
+import delloite_tech from "./projects/Delloite_Tech.png";
+import delloite_data from "./projects/Delloite_Data.png";
+import skn_vap from "./projects/SKN_Vap.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
@@ -68,4 +72,8 @@ export {
   omsaitrader,
   agriculture,
   moviebooking,
+  tatacert,
+  delloite_tech,
+  delloite_data,
+  skn_vap,
 };

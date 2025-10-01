@@ -25,6 +25,10 @@ import {
   omsaitrader,
   agriculture,
   moviebooking,
+  tatacert,
+  delloite_tech,
+  delloite_data,
+  skn_vap,
 } from "../assets";
 
 
@@ -112,20 +116,8 @@ const technologies = [
     icon: docker,
   },
 ];
-const experiences = [
-  // {
-  //   title: "Campus Ambassador",
-  //   company_name: "GeeksforGeeks",
-  //   icon: shopify,
-  //   iconBg: "#383E56",
-  //   date: "May 2025 - Present",
-  //   points: [
-  //     "Represented GeeksforGeeks on campus as a Campus Ambassador.",
-  //     "Promoted coding culture and GfG events among peers.",
-  //     "Organized workshops and sessions to enhance student engagement.",
-  //     "Collaborated with the GfG team to drive outreach and participation."
-  //   ],
-  // },
+const experiences = 
+[
   {
     title: "Web Developer",
     company_name: "Om Sai Traders Pvt Ltd, Dhule",
@@ -267,28 +259,28 @@ const achievements = [
     title: "Tata Intern GenAI Powered Data Analytics Job Simulation",
     competition: "Tata Internship",
     date: "2025",
-    image: "/images/tata-cert.png",
+    image: tatacert,
     link: "https://drive.google.com/file/d/19oq3mMNfQkHoh1z_Q9u51OQDRrCiL9zD/view?usp=sharing", 
   },
   {
     title: "Deloitte Technology Job Simulation",
     competition: "Forage Virtual Internship",
     date: "2025",
-    image: "src/assets/Deloitte Technology Certificate.pdf",
+    image: delloite_tech,
     link: "https://drive.google.com/file/d/1Gca3ssAcgvSajYwZgp1KsSJgQz8vtYFO/view?usp=sharing",
   },
   {
     title: "Deloitte Data Analytics Job Simulation",
     competition: "Deloitte Internship",
     date: "2025",
-    image: "/images/deloitte-data.png",
+    image: delloite_data,
     link: "https://drive.google.com/file/d/1d6Afn8JXE3vspWN6UKFRXqTePR7wev6a/view?usp=sharing",
   },
   {
     title: "Data Analytics",
     competition: "SKN VAP Program",
     date: "2025",
-    image: "/images/data-analytics.png",
+    image: skn_vap,
     link: "https://drive.google.com/file/d/1dLBtwjxWTsnuC-J2SVQw3jXSahJKVnb8/view?usp=sharing",
   },
 
