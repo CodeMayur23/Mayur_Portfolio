@@ -137,18 +137,18 @@ const experiences = [
       "Developed an application using Django, Mediapipe, and SQLite.",
     ],
   },
-  // {
-  //   title: "Full Stack Web Developer",
-  //   company_name: "Unified Mentor Private Limited",
-  //   icon: shopify,
-  //   iconBg: "#383E56",
-  //   date: "Jan 2025 - Feb 2025",
-  //   points: [
-  //     "Completed a one-month remote web development internship.",
-  //     "Designed, developed, and optimized web applications while enhancing problem-solving skills.",
-  //     "Gained understanding of industry best practices.",
-  //   ],
-  // },
+   {
+     title: "Full Stack Web Developer",
+     company_name: "Unified Mentor Private Limited",
+     icon: shopify,
+     iconBg: "#383E56",
+     date: "Jan 2025 - Mar 2025",
+     points: [
+       "Completed a one-month remote web development internship.",
+       "Designed, developed, and optimized web applications while enhancing problem-solving skills.",
+       "Gained understanding of industry best practices.",
+     ],
+   },
 ];
 
 
@@ -289,7 +289,7 @@ const achievements = [
     competition: "SKN VAP Program",
     date: "2025",
     image: "/images/data-analytics.png",
-    link: "/images/data-analytics.png",
+    link: "https://drive.google.com/file/d/1dLBtwjxWTsnuC-J2SVQw3jXSahJKVnb8/view?usp=sharing",
   },
 
  
